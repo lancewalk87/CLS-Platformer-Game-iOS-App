@@ -1,4 +1,4 @@
-# platformer-Game-
+# CLS Platformer Game iOS App 
 iOS (Swift) platformer game 
 
 
