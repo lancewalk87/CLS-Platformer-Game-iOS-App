@@ -1,5 +1,6 @@
-//Platformer Game
-//Simply Coding 
+// Platformer Game
+// Simply Coding 
+//  Created by Lance Walker on 4/19/16.
 
 import SpriteKit;
 import MediaPlayer;
